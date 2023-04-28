@@ -1,2 +1,2 @@
-# classical-pre-quantum-and-post-quantum-cryptography
+# Classical Pre-Quantum and Post-Quantum Cryptography
 Tutorials on Classical Pre-Quantum and Post-Quantum Cryptography
