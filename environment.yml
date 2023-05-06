@@ -1,0 +1,8 @@
+name: classical-pre-quantum-and-post-quantum-cryptography
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - numpy
+  - ipywidgets
+  - beakerx
