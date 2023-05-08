@@ -19,8 +19,8 @@
 * #### **Capítulo 5: Funções de Dispersão/Síntese**
 * #### **Capítulo 6: Códigos de Autenticação de Mensagem**
 * #### **Capítulo 7: Criptografia Clássica Assimétrica Pré-Quântica**
-* #### **Capítulo 8: Criptoanálise Clássica**
-* #### **Capítulo 9: Criptoanálise Quântica**
+* #### [**Capítulo 8: Criptoanálise Clássica**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-8-criptoanalise-classica)
+* #### [**Capítulo 9: Criptoanálise Quântica**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-9-criptoanalise-quantica)
 * #### [**Capítulo 10: Impacto da Computação Quântica**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-10-impacto-computacao-quantica)
 * #### **Capítulo 11: Criptografia Clássica Assimétrica Pós-Quântica**
 * #### **Capítulo 12: Outros tipos de Criptografia Moderna e Perspetivas Futuras**
