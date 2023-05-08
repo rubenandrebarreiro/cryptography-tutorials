@@ -58,4 +58,4 @@
 
 <br/>
 
-### **Este curso também disponibilizado em versão inglesa, através da seguinte [hiperligação](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/english).**
+### **Este curso também está disponibilizado numa versão inglesa, através da seguinte [hiperligação](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/english).**
