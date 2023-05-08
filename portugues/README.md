@@ -2,11 +2,11 @@
 
 ### **Neste curso, irão ser abordados os conceitos mais importantes de Criptografia no geral, desde tópicos básicos até tópicos mais avançados. Vai ser abordada toda a evolução da Criptografia ao longo dos anos, incluindo os seus vários formalismos, definições e implementações, desde a Criptografia Primordial até à Cripografia Moderna (Criptografia Clássica Pre-Quântica e Criptografia Clássica Pós-Quântica), incluindo já uma visão de futuras perspetivas e direções da Criptografia para os próximos anos.**
 
-### **Este curso é organizado num total de 12 capítulos, cada um incluindo vários tutoriais em [_Jupyter Notebook_](https://www.jupyter.org/), usando _kernels_ (núcleos) em [_Java_](https://www.java.com/), por vezes, com recurso de algumas primitivas e funcionalidades de bibliotecas externas, como o [_Bouncy Castle Crypto_](https://www.bouncycastle.org/).**
+### **Este curso é organizado num total de 12 capítulos, cada um incluindo vários _tutoriais_ em [_Jupyter Notebook_](https://www.jupyter.org/), usando _kernels_ (núcleos) em [_Java_](https://www.java.com/), por vezes, com recurso de algumas primitivas e funcionalidades de bibliotecas externas, como o [_Bouncy Castle Crypto_](https://www.bouncycastle.org/).**
 
 <br/>
 
-### **O curso é composto pelos seguintes capítulos:**
+### **O curso é composto pelos seguintes capítulos e _tutoriais_:**
 * #### [**Capítulo 1: Introdução**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao)
   * [**Tutorial 1.1: Introdução à Criptografia**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao/tutorial-1.1-introducao-criptografia)
   * [**Tutorial 1.2: Cifras de Substituição**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao/tutorial-1.2-cifras-substituicao)
