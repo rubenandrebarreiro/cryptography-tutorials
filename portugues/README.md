@@ -9,6 +9,7 @@
 ### **O curso é composto pelos seguintes capítulos e _tutoriais_:**
 * #### [**Capítulo 1: Introdução à Criptografia**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao)
   * [**Tutorial 1.1: Introdução ao que é a Criptografia**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao/tutorial-1.1-introducao-criptografia)
+   * Neste tutorial, irá ser feita uma introdução ao que é a Criptografia em si, quais os seus aspetos principais, a sua origem, as suas diferentes épocas, as suas ideias base, tal como um exemplo muito introdutório de codificação de informação através de transformações de mapeamento linear.
   * [**Tutorial 1.2: Cifras de Substituição**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao/tutorial-1.2-cifras-substituicao)
   * **Tutorial 1.2: Cifras Monoalfabéticas**
   * **Tutorial 1.4: Cifras Polialfabéticas**
