@@ -7,13 +7,13 @@
 <br/>
 
 ### **O curso é composto pelos seguintes capítulos e _tutoriais_:**
-* #### [**Capítulo 1: Introdução**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao)
-  * [**Tutorial 1.1: Introdução à Criptografia**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao/tutorial-1.1-introducao-criptografia)
+* #### [**Capítulo 1: Introdução à Criptografia**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao)
+  * [**Tutorial 1.1: Introdução ao que é a Criptografia**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao/tutorial-1.1-introducao-criptografia)
   * [**Tutorial 1.2: Cifras de Substituição**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao/tutorial-1.2-cifras-substituicao)
   * **Tutorial 1.2: Cifras Monoalfabéticas**
   * **Tutorial 1.4: Cifras Polialfabéticas**
   * **Tutorial 1.5: Cifras de Transposição**
-* #### [**Capítulo 2: Conceitos Básicos**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-2-conceitos-basicos)
+* #### [**Capítulo 2: Conceitos Básicos de Criptografia**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-2-conceitos-basicos)
 * #### [**Capítulo 3: Geração de Números Aleatórios**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-3-geracao-numeros-aleatorios)
 * #### **Capítulo 4: Criptografia Clássica Simétrica**
 * #### **Capítulo 5: Funções de Dispersão/Síntese**
