@@ -23,7 +23,7 @@
 * #### [**Capítulo 9: Criptoanálise Quântica**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-9-criptoanalise-quantica)
 * #### [**Capítulo 10: Impacto da Computação Quântica**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-10-impacto-computacao-quantica)
 * #### **Capítulo 11: Criptografia Clássica Assimétrica Pós-Quântica**
-* #### **Capítulo 12: Outros tipos de Criptografia Moderna e Perspetivas Futuras**
+* #### **Capítulo 12: Outros tipos de Criptografia Moderna e Futuras Perspetivas**
 
 <br/>
 
