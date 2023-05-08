@@ -25,4 +25,6 @@
 * #### **Capítulo 11: Criptografia Clássica Assimétrica Pós-Quântica**
 * #### **Capítulo 12: Outros tipos de Criptografia Moderna e Perspetivas Futuras**
 
+<br/>
+
 ### **Este curso também disponibilizado noutra versão em inglês, através da seguinte [hiperligação](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/english).**
