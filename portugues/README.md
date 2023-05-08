@@ -9,6 +9,9 @@
 ### **O curso é composto pelos seguintes capítulos e _tutoriais_:**
 * #### [**Capítulo 1: Introdução à Criptografia**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao)
   
+  * [**Tutorial 1.0: Configuração do Ambiente de Desenvolvimento**]()
+    * Neste tutorial, irá ser explicado como é feita a configuração do ambiente de desenvolvimento, incluindo a instalação das ferramentas e bibliotecas necessárias para este curso, tal como os comandos que necessitam ser executados para o mesmo efeito.
+    
   * [**Tutorial 1.1: Introdução ao que é a Criptografia**](https://github.com/rubenandrebarreiro/classical-pre-quantum-and-post-quantum-cryptography/tree/main/portugues/capitulo-1-introducao/tutorial-1.1-introducao-criptografia)
     * Neste tutorial, irá ser feita uma introdução ao que é a Criptografia em si, quais os seus aspetos principais, a sua origem, as suas diferentes épocas, as suas ideias base, tal como um exemplo muito introdutório de codificação de informação através de transformações de mapeamento linear.
     
